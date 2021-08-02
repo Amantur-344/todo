@@ -87,3 +87,7 @@ def completed_tasks(request):
 
 def register():
     pass
+
+
+def asd():
+    pass
