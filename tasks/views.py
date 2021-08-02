@@ -90,4 +90,8 @@ def register():
 
 
 def asd():
+  pass
+
+
+def test():
     pass
